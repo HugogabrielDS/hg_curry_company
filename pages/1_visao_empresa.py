@@ -136,7 +136,7 @@ def clean_code(df1):
 
 #---------------------------------------- Inicio da Estrutura lógica do código ----------------------------------------
 #Importing Dataset
-df = pd.read_csv( 'D:/Users/FTC_analisando_dados_python/dataset/train.csv.zip' )
+df = pd.read_csv( 'D:/Users/FTC_analisando_dados_python/dataset/train.csv' )
 
 
 #Limpando o dataframe
